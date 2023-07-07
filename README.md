@@ -1,7 +1,5 @@
 # Home_automation_sub_Hand_gesture_Minor_project
 This is just a small part of the big project of home automation, that me and my mates are working on in the college, but this small part is a project on its own!
-Full Project of Home Automation is Work in Progress currently.
-
 # Hand Gesture Recognition
 
 This is a minor project on Hand Gesture Recognition using computer vision techniques.
@@ -55,6 +53,7 @@ This project aims to recognize and classify hand gestures using OpenCV and Pytho
    ```
 
 3. Place your hand in front of the camera and perform any gesture. The program will display the predicted gesture.
+![hand_gesture](https://github.com/Aryan570/Hand_gesture_Minor_project/assets/91080682/a4aa4cdd-2d15-46ea-a45b-dd52e5213ffb)
 
 ## Contributing
 
